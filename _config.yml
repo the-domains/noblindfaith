@@ -1,0 +1,23 @@
+name: NoBlindFaith
+favicon: null
+layout_spectrum: 0.8873272365890443
+typography_spectrum: 0.07569474610500038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1440582589711994
+  lightness: 0.4212232059799135
+  saturation: 0.5832020728848875
+  rhythmicContrast: 0.12568782595917583
+purpose: []
